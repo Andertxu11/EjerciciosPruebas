@@ -288,5 +288,6 @@ public class Batman {
     private static void finalizarCaso(String mensaje) {
         System.out.println("\nEl caso ha terminado porque " + mensaje);
         System.out.println("Gracias por jugar, Batman. ¡Gotham te necesita!");
+        System.out.println("Batman pedo");
     }
 }
